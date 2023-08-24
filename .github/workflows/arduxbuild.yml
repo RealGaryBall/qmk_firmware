@@ -24,7 +24,7 @@ jobs:
             hand: right
             size: std
             fwext: hex
-          - layout: faunchpad
+/*          - layout: faunchpad
             hand: left
             size: std
             fwext: hex
@@ -79,7 +79,7 @@ jobs:
           - layout: draculad
             hand: right
             size: big
-            fwext: hex
+            fwext: hex  */
           # - layout: boardsource_microdox
           #   hand: left
           #   size: big
